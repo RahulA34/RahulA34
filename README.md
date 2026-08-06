@@ -23,9 +23,12 @@ I'm an AI & Data Science undergraduate passionate about building end-to-end web 
 - 🤖 Interested in Machine Learning and AI-powered applications
 - 📚 Currently strengthening Data Structures & Algorithms
 - 🎯 Seeking Software Engineer, Backend Developer, and Full-Stack Developer opportunities
+- 
 <br/> <div align="center"> <img src="https://img.shields.io/badge/🟢_Open_to_Internships-0A192F?style=for-the-badge&labelColor=0A192F&color=0A192F" /> </div> <br/>
-📚  Currently Learning
+
+📚 Currently Learning
 <div align="center"> <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-0A192F?style=for-the-badge&logo=leetcode&logoColor=C792EA" /> <img src="https://img.shields.io/badge/Machine_Learning-0A192F?style=for-the-badge&logo=scikitlearn&logoColor=C792EA" /> <img src="https://img.shields.io/badge/System_Design-0A192F?style=for-the-badge&logo=serverless&logoColor=C792EA" /> <img src="https://img.shields.io/badge/REST_APIs-0A192F?style=for-the-badge&logo=fastapi&logoColor=C792EA" /> <img src="https://img.shields.io/badge/SQL_Optimization-0A192F?style=for-the-badge&logo=mysql&logoColor=C792EA" /> </div> <br/>
+
 🧠  Core Competencies
 <div align="center"> <img src="https://img.shields.io/badge/Backend_Development-0A192F?style=for-the-badge&labelColor=0A192F&color=0A192F" /> <img src="https://img.shields.io/badge/REST_APIs-0A192F?style=for-the-badge&labelColor=0A192F&color=0A192F" /> <img src="https://img.shields.io/badge/Database_Design-0A192F?style=for-the-badge&labelColor=0A192F&color=0A192F" /> <img src="https://img.shields.io/badge/Machine_Learning-0A192F?style=for-the-badge&labelColor=0A192F&color=0A192F" /> <img src="https://img.shields.io/badge/Problem_Solving-0A192F?style=for-the-badge&labelColor=0A192F&color=0A192F" /> <img src="https://img.shields.io/badge/Data_Analysis-0A192F?style=for-the-badge&labelColor=0A192F&color=0A192F" /> <img src="https://img.shields.io/badge/Responsive_Web_Dev-0A192F?style=for-the-badge&labelColor=0A192F&color=0A192F" /> </div> <br/>
 🛠️  Tech Stack
