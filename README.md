@@ -1,4 +1,4 @@
-<div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:12395C,100:0EA5C4&height=220&section=header&text=Rahul%20A&fontSize=68&fontColor=E6F1FF&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Undergraduate&descAlignY=58&descSize=20&descColor=8892B0&animation=fadeIn" /> <br/> <a href="https://linkedin.com/in/rahul-a-177660306"> <img src="https://readme-typing-svg.demolab.com/?lines=Python+Developer;Flask+Full-Stack+Developer;Machine+Learning+Enthusiast;Software+Engineer+Aspirant&font=Fira+Code&size=20&pause=1500&color=64FFDA&center=true&vCenter=true&width=560&height=45&background=00000000" alt="Typing SVG" /> </a>
+<div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,100:0EA5C4&height=230&section=header&text=Rahul%20A&fontSize=62&fontColor=E6F1FF&fontAlign=15&fontAlignY=34&desc=AI%20%26%20Data%20Science%20Undergraduate&descAlign=15&descAlignY=54&descSize=18&descColor=8892B0&animation=twinkling" /> <br/> <a href="https://linkedin.com/in/rahul-a-177660306"> <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;Software+Developer;AI+%26+Machine+Learning+Enthusiast;Open+to+AI+%2F+Software+Internships&font=Fira+Code&size=20&pause=1500&color=64FFDA&center=true&vCenter=true&width=560&height=45&background=00000000" alt="Typing SVG" /> </a>
 
 <br/><br/>
 
@@ -14,12 +14,15 @@ B.Tech — Artificial Intelligence & Data Science Velammal Engineering College �
 
 </td> </tr> </table> <br/>
 👤  About Me
+
+I build end-to-end web applications and enjoy turning data-driven ideas into working products. Currently sharpening my problem-solving skills while actively looking for opportunities to apply what I know in a real engineering team.
+
 🎯 AI & Data Science undergraduate focused on practical software engineering
-🐍 Python developer with a strong foundation in backend systems
-⚙️ Flask full-stack developer — building end-to-end web applications
-🤖 Exploring Machine Learning applied to real-world problems
+⚙️ Full-stack developer — building complete web applications from database to UI
+💻 Comfortable across the stack as a software developer, not just one layer
+🤖 AI enthusiast, exploring Machine Learning applied to real-world problems
 📈 Currently strengthening Data Structures & Algorithms
-💼 Open to Software Engineer, Full-Stack, and Backend Developer roles
+💼 Actively seeking AI / Software Engineering internships and full-time roles
 <br/>
 📚  Currently Learning
 <table align="center"> <tr> <td align="center" width="20%"><b>Data Structures<br/>& Algorithms</b></td> <td align="center" width="20%"><b>Machine<br/>Learning</b></td> <td align="center" width="20%"><b>System Design<br/>Fundamentals</b></td> <td align="center" width="20%"><b>REST API<br/>Development</b></td> <td align="center" width="20%"><b>SQL<br/>Optimization</b></td> </tr> </table> <br/>
@@ -81,3 +84,8 @@ Python Flask Chart.js Bootstrap MySQL
 <i>"Always learning. Always building."</i>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5C4,50:12395C,100:0A192F&height=120&section=footer" /> </div>
+Content
+
+You are an expert GitHub Profile README designer with experience creating premium GitHub profiles for software engineers. Create a world-class GitHub Profile README.md for me. I want a premium, clean, modern GitHub profile that looks like an experienced Software Engineer's profile, not a typic
+
+PASTED
