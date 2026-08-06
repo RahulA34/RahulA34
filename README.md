@@ -1,1 +1,86 @@
+<div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,100:0EA5C4&height=250&section=header&text=Hi%20👋%2C%20I'm%20Rahul%20A&fontSize=48&fontColor=E6F1FF&fontAlign=50&fontAlignY=38&desc=AI%20Enthusiast%20%7C%20Software%20Developer&descAlign=50&descAlignY=58&descSize=20&descColor=64FFDA&animation=twinkling" /> <br/> <a href="https://linkedin.com/in/rahul-a-177660306"> <img src="https://readme-typing-svg.demolab.com/?lines=AI+Enthusiast;Software+Developer;Full-Stack+Developer;Machine+Learning+Explorer;Open+to+AI+%2F+Software+Internships&font=Fira+Code&size=20&pause=1500&color=64FFDA&center=true&vCenter=true&width=560&height=45&background=00000000" alt="Typing SVG" /> </a>
 
+<br/><br/>
+
+<a href="https://linkedin.com/in/rahul-a-177660306"> <img src="https://img.shields.io/badge/LinkedIn-0A192F?style=for-the-badge&logo=linkedin&logoColor=64FFDA&labelColor=0A192F" /> </a> <a href="mailto:rahularmstrong.in@gmail.com"> <img src="https://img.shields.io/badge/Email-0A192F?style=for-the-badge&logo=gmail&logoColor=64FFDA&labelColor=0A192F" /> </a> <a href="https://github.com/RahulA34"> <img src="https://img.shields.io/badge/GitHub-0A192F?style=for-the-badge&logo=github&logoColor=64FFDA&labelColor=0A192F" /> </a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=RahulA34&label=Profile%20Views&color=0A192F&style=flat-square&labelColor=0A192F" /> </div> <br/>
+🎓  Education
+<table align="center" width="100%"> <tr> <td align="center" width="100%">
+
+B.Tech — Artificial Intelligence & Data Science Velammal Engineering College  ·  2023 – 2027  ·  CGPA: 8.0
+
+</td> </tr> </table> <br/>
+👤  About Me
+
+I'm an AI enthusiast and Software Developer who loves turning data-driven ideas into working, end-to-end products. Currently sharpening my problem-solving skills while actively looking for opportunities to apply what I know in a real engineering team.
+
+🎯  AI & Data Science undergraduate focused on practical software engineering
+⚙️  Full-stack developer — building complete web applications from database to UI
+💻  Comfortable across the stack as a software developer, not just one layer
+🤖  AI enthusiast, exploring Machine Learning applied to real-world problems
+📈  Currently strengthening Data Structures & Algorithms
+💼  Actively seeking AI / Software Engineering internships and full-time roles
+<br/> <div align="center"> <img src="https://img.shields.io/badge/🟢_Open_to_Internships-0A192F?style=for-the-badge&labelColor=0A192F&color=0A192F" /> </div> <br/>
+📚  Currently Learning
+<div align="center"> <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-0A192F?style=for-the-badge&logo=leetcode&logoColor=64FFDA" /> <img src="https://img.shields.io/badge/Machine_Learning-0A192F?style=for-the-badge&logo=scikitlearn&logoColor=64FFDA" /> <img src="https://img.shields.io/badge/System_Design-0A192F?style=for-the-badge&logo=serverless&logoColor=64FFDA" /> <img src="https://img.shields.io/badge/REST_APIs-0A192F?style=for-the-badge&logo=fastapi&logoColor=64FFDA" /> <img src="https://img.shields.io/badge/SQL_Optimization-0A192F?style=for-the-badge&logo=mysql&logoColor=64FFDA" /> </div> <br/>
+🧠  Core Competencies
+<div align="center"> <img src="https://img.shields.io/badge/Backend_Development-0A192F?style=for-the-badge&labelColor=0A192F&color=0A192F" /> <img src="https://img.shields.io/badge/REST_APIs-0A192F?style=for-the-badge&labelColor=0A192F&color=0A192F" /> <img src="https://img.shields.io/badge/Database_Design-0A192F?style=for-the-badge&labelColor=0A192F&color=0A192F" /> <img src="https://img.shields.io/badge/Machine_Learning-0A192F?style=for-the-badge&labelColor=0A192F&color=0A192F" /> <img src="https://img.shields.io/badge/Problem_Solving-0A192F?style=for-the-badge&labelColor=0A192F&color=0A192F" /> <img src="https://img.shields.io/badge/Data_Analysis-0A192F?style=for-the-badge&labelColor=0A192F&color=0A192F" /> <img src="https://img.shields.io/badge/Responsive_Web_Dev-0A192F?style=for-the-badge&labelColor=0A192F&color=0A192F" /> </div> <br/>
+🛠️  Tech Stack
+<div align="center">
+
+Programming Languages
+
+<p align="center"> <img src="https://img.shields.io/badge/Python-0A192F?style=for-the-badge&logo=python&logoColor=64FFDA" /> <img src="https://img.shields.io/badge/Java-0A192F?style=for-the-badge&logo=openjdk&logoColor=64FFDA" /> <img src="https://img.shields.io/badge/SQL-0A192F?style=for-the-badge&logo=mysql&logoColor=64FFDA" /> <img src="https://img.shields.io/badge/JavaScript-0A192F?style=for-the-badge&logo=javascript&logoColor=64FFDA" /> <img src="https://img.shields.io/badge/HTML5-0A192F?style=for-the-badge&logo=html5&logoColor=64FFDA" /> <img src="https://img.shields.io/badge/CSS3-0A192F?style=for-the-badge&logo=css3&logoColor=64FFDA" /> </p> <br/>
+
+Frontend
+
+<p align="center"> <img src="https://img.shields.io/badge/HTML5-0A192F?style=for-the-badge&logo=html5&logoColor=64FFDA" /> <img src="https://img.shields.io/badge/CSS3-0A192F?style=for-the-badge&logo=css3&logoColor=64FFDA" /> <img src="https://img.shields.io/badge/Bootstrap-0A192F?style=for-the-badge&logo=bootstrap&logoColor=64FFDA" /> <img src="https://img.shields.io/badge/React-0A192F?style=for-the-badge&logo=react&logoColor=64FFDA" /> </p> <br/>
+
+Backend
+
+<p align="center"> <img src="https://img.shields.io/badge/Flask-0A192F?style=for-the-badge&logo=flask&logoColor=64FFDA" /> <img src="https://img.shields.io/badge/Node.js-0A192F?style=for-the-badge&logo=node.js&logoColor=64FFDA" /> <img src="https://img.shields.io/badge/REST_API-0A192F?style=for-the-badge&logo=fastapi&logoColor=64FFDA" /> </p> <br/>
+
+Database
+
+<p align="center"> <img src="https://img.shields.io/badge/MySQL-0A192F?style=for-the-badge&logo=mysql&logoColor=64FFDA" /> <img src="https://img.shields.io/badge/MongoDB-0A192F?style=for-the-badge&logo=mongodb&logoColor=64FFDA" /> </p> <br/>
+
+Machine Learning
+
+<p align="center"> <img src="https://img.shields.io/badge/Pandas-0A192F?style=for-the-badge&logo=pandas&logoColor=64FFDA" /> <img src="https://img.shields.io/badge/NumPy-0A192F?style=for-the-badge&logo=numpy&logoColor=64FFDA" /> <img src="https://img.shields.io/badge/Scikit--Learn-0A192F?style=for-the-badge&logo=scikitlearn&logoColor=64FFDA" /> <img src="https://img.shields.io/badge/TensorFlow-0A192F?style=for-the-badge&logo=tensorflow&logoColor=64FFDA" /> <img src="https://img.shields.io/badge/Keras-0A192F?style=for-the-badge&logo=keras&logoColor=64FFDA" /> <img src="https://img.shields.io/badge/Matplotlib-0A192F?style=for-the-badge&logo=plotly&logoColor=64FFDA" /> </p> <br/>
+
+Tools & Platforms
+
+<p align="center"> <img src="https://img.shields.io/badge/Git-0A192F?style=for-the-badge&logo=git&logoColor=64FFDA" /> <img src="https://img.shields.io/badge/GitHub-0A192F?style=for-the-badge&logo=github&logoColor=64FFDA" /> <img src="https://img.shields.io/badge/VS_Code-0A192F?style=for-the-badge&logo=visualstudiocode&logoColor=64FFDA" /> <img src="https://img.shields.io/badge/Figma-0A192F?style=for-the-badge&logo=figma&logoColor=64FFDA" /> <img src="https://img.shields.io/badge/Google_Colab-0A192F?style=for-the-badge&logo=googlecolab&logoColor=64FFDA" /> <img src="https://img.shields.io/badge/Excel-0A192F?style=for-the-badge&logo=microsoftexcel&logoColor=64FFDA" /> </p> </div> <br/>
+🚀  Featured Projects
+<table width="100%"> <tr> <td width="50%" valign="top">
+🌾 Farmer Produce Price Prediction
+
+AI-powered crop price prediction system using Machine Learning and Flask with a MySQL database, helping farmers estimate market prices with greater confidence.
+
+Python Flask Machine Learning MySQL Bootstrap
+
+<a href="https://github.com/RahulA34"> <img src="https://img.shields.io/badge/View_Repository-0A192F?style=for-the-badge&logo=github&logoColor=64FFDA&labelColor=0A192F" /> </a> </td> <td width="50%" valign="top">
+📊 Retail Inventory & Sales Dashboard
+
+Analytics dashboard built using Flask, Pandas, and Chart.js to visualize inventory levels, revenue, and sales trends in real time.
+
+Python Flask Chart.js Bootstrap MySQL
+
+<a href="https://github.com/RahulA34"> <img src="https://img.shields.io/badge/View_Repository-0A192F?style=for-the-badge&logo=github&logoColor=64FFDA&labelColor=0A192F" /> </a> </td> </tr> </table> <br/>
+📜  Certifications
+<div align="center"> <img src="https://img.shields.io/badge/AI_%26_Data_Science_Virtual_Internship-0A192F?style=for-the-badge&labelColor=0A192F&color=0A192F" /> <img src="https://img.shields.io/badge/Full_Stack_Development_Certification-0A192F?style=for-the-badge&labelColor=0A192F&color=0A192F" /> <img src="https://img.shields.io/badge/IIT_Madras_AI_Hackathon_%26_Workshop-0A192F?style=for-the-badge&labelColor=0A192F&color=0A192F" /> </div> <br/>
+📊  GitHub Analytics
+<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=RahulA34&show_icons=true&hide_border=true&bg_color=0A192F&title_color=64FFDA&icon_color=64FFDA&text_color=CCD6F6&hide_rank=false" /> <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=RahulA34&hide_border=true&background=0A192F&stroke=0A192F&ring=64FFDA&fire=64FFDA&currStreakLabel=64FFDA&sideLabels=CCD6F6&currStreakNum=E6F1FF&sideNums=E6F1FF&dates=8892B0" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulA34&layout=compact&hide_border=true&bg_color=0A192F&title_color=64FFDA&text_color=CCD6F6&langs_count=8" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RahulA34&bg_color=0A192F&color=64FFDA&line=64FFDA&point=E6F1FF&area=true&hide_border=true" width="95%" /> </div> <br/>
+📬  Connect With Me
+<div align="center"> <a href="https://linkedin.com/in/rahul-a-177660306"> <img src="https://img.shields.io/badge/LinkedIn-0A192F?style=for-the-badge&logo=linkedin&logoColor=64FFDA&labelColor=0A192F" /> </a> <a href="https://github.com/RahulA34"> <img src="https://img.shields.io/badge/GitHub-0A192F?style=for-the-badge&logo=github&logoColor=64FFDA&labelColor=0A192F" /> </a> <a href="mailto:rahularmstrong.in@gmail.com"> <img src="https://img.shields.io/badge/Email-0A192F?style=for-the-badge&logo=gmail&logoColor=64FFDA&labelColor=0A192F" /> </a> </div> <br/> <div align="center">
+
+<i>"Always learning. Always building."</i>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5C4,50:12395C,100:0A192F&height=120&section=footer" /> </div>
