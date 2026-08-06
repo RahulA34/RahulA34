@@ -15,14 +15,16 @@ B.Tech — Artificial Intelligence & Data Science Velammal Engineering College �
 </td> </tr> </table> <br/>
 👤  About Me
 
-I'm an AI enthusiast and Software Developer who loves turning data-driven ideas into working, end-to-end products. Currently sharpening my problem-solving skills while actively looking for opportunities to apply what I know in a real engineering team.
+## 👨‍💻 About Me
 
-🎯  AI & Data Science undergraduate focused on practical software engineering
-⚙️  Full-stack developer — building complete web applications from database to UI
-💻  Comfortable across the stack as a software developer, not just one layer
-🤖  AI enthusiast, exploring Machine Learning applied to real-world problems
-📈  Currently strengthening Data Structures & Algorithms
-💼  Actively seeking AI / Software Engineering internships and full-time roles
+I'm an AI & Data Science undergraduate passionate about building end-to-end web applications and solving real-world problems using Python, Flask, and Machine Learning. I'm continuously improving my software engineering skills through projects, problem solving, and hands-on development.
+
+- 🎓 B.Tech Artificial Intelligence & Data Science (2023–2027)
+- 💻 Python & Flask Full-Stack Developer
+- 🗄️ Strong foundation in MySQL, REST APIs, and Backend Development
+- 🤖 Interested in Machine Learning and AI-powered applications
+- 📚 Currently strengthening Data Structures & Algorithms
+- 🎯 Seeking Software Engineer, Backend Developer, and Full-Stack Developer opportunities
 <br/> <div align="center"> <img src="https://img.shields.io/badge/🟢_Open_to_Internships-0A192F?style=for-the-badge&labelColor=0A192F&color=0A192F" /> </div> <br/>
 📚  Currently Learning
 <div align="center"> <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-0A192F?style=for-the-badge&logo=leetcode&logoColor=C792EA" /> <img src="https://img.shields.io/badge/Machine_Learning-0A192F?style=for-the-badge&logo=scikitlearn&logoColor=C792EA" /> <img src="https://img.shields.io/badge/System_Design-0A192F?style=for-the-badge&logo=serverless&logoColor=C792EA" /> <img src="https://img.shields.io/badge/REST_APIs-0A192F?style=for-the-badge&logo=fastapi&logoColor=C792EA" /> <img src="https://img.shields.io/badge/SQL_Optimization-0A192F?style=for-the-badge&logo=mysql&logoColor=C792EA" /> </div> <br/>
@@ -83,9 +85,3 @@ Python Flask Chart.js Bootstrap MySQL
 <i>"Always learning. Always building."</i>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9D4EDD,50:4A1E6D,100:1A1A2E&height=120&section=footer" /> </div>
-Content
-README (1).md
-
-257 lines
-
-MD
