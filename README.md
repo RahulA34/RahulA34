@@ -23,7 +23,7 @@ I build end-to-end web applications and enjoy turning data-driven ideas into wor
 🤖 AI enthusiast, exploring Machine Learning applied to real-world problems
 📈 Currently strengthening Data Structures & Algorithms
 💼 Actively seeking AI / Software Engineering internships and full-time roles
-<br/>
+<br/> <div align="center"> <img src="https://img.shields.io/badge/🟢_Open_to_Internships-0A192F?style=for-the-badge&labelColor=0A192F&color=0A192F" /> </div> <br/>
 📚  Currently Learning
 <table align="center"> <tr> <td align="center" width="20%"><b>Data Structures<br/>& Algorithms</b></td> <td align="center" width="20%"><b>Machine<br/>Learning</b></td> <td align="center" width="20%"><b>System Design<br/>Fundamentals</b></td> <td align="center" width="20%"><b>REST API<br/>Development</b></td> <td align="center" width="20%"><b>SQL<br/>Optimization</b></td> </tr> </table> <br/>
 🧠  Core Competencies
