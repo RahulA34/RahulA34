@@ -23,7 +23,6 @@ I'm an AI & Data Science undergraduate passionate about building end-to-end web 
 - 🤖 Interested in Machine Learning and AI-powered applications
 - 📚 Currently strengthening Data Structures & Algorithms
 - 🎯 Seeking Software Engineer, Backend Developer, and Full-Stack Developer opportunities
-- 
 <br/> <div align="center"> <img src="https://img.shields.io/badge/🟢_Open_to_Internships-0A192F?style=for-the-badge&labelColor=0A192F&color=0A192F" /> </div> <br/>
 
 📚 Currently Learning
