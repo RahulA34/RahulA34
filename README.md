@@ -83,3 +83,9 @@ Python Flask Chart.js Bootstrap MySQL
 <i>"Always learning. Always building."</i>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9D4EDD,50:4A1E6D,100:1A1A2E&height=120&section=footer" /> </div>
+Content
+README (1).md
+
+257 lines
+
+MD
