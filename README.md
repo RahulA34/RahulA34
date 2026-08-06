@@ -15,8 +15,6 @@ B.Tech — Artificial Intelligence & Data Science Velammal Engineering College �
 </td> </tr> </table> <br/>
 👤  About Me
 
-## 👨‍💻 About Me
-
 I'm an AI & Data Science undergraduate passionate about building end-to-end web applications and solving real-world problems using Python, Flask, and Machine Learning. I'm continuously improving my software engineering skills through projects, problem solving, and hands-on development.
 
 - 🎓 B.Tech Artificial Intelligence & Data Science (2023–2027)
