@@ -29,31 +29,30 @@ I'm an AI enthusiast and Software Developer who loves turning data-driven ideas 
 🧠  Core Competencies
 <div align="center"> <img src="https://img.shields.io/badge/Backend_Development-0A192F?style=for-the-badge&labelColor=0A192F&color=0A192F" /> <img src="https://img.shields.io/badge/REST_APIs-0A192F?style=for-the-badge&labelColor=0A192F&color=0A192F" /> <img src="https://img.shields.io/badge/Database_Design-0A192F?style=for-the-badge&labelColor=0A192F&color=0A192F" /> <img src="https://img.shields.io/badge/Machine_Learning-0A192F?style=for-the-badge&labelColor=0A192F&color=0A192F" /> <img src="https://img.shields.io/badge/Problem_Solving-0A192F?style=for-the-badge&labelColor=0A192F&color=0A192F" /> <img src="https://img.shields.io/badge/Data_Analysis-0A192F?style=for-the-badge&labelColor=0A192F&color=0A192F" /> <img src="https://img.shields.io/badge/Responsive_Web_Dev-0A192F?style=for-the-badge&labelColor=0A192F&color=0A192F" /> </div> <br/>
 🛠️  Tech Stack
-<div align="center">
 
 Programming Languages
 
-<p align="center"> <img src="https://img.shields.io/badge/Python-0A192F?style=for-the-badge&logo=python&logoColor=64FFDA" /> <img src="https://img.shields.io/badge/Java-0A192F?style=for-the-badge&logo=openjdk&logoColor=64FFDA" /> <img src="https://img.shields.io/badge/SQL-0A192F?style=for-the-badge&logo=mysql&logoColor=64FFDA" /> <img src="https://img.shields.io/badge/JavaScript-0A192F?style=for-the-badge&logo=javascript&logoColor=64FFDA" /> <img src="https://img.shields.io/badge/HTML5-0A192F?style=for-the-badge&logo=html5&logoColor=64FFDA" /> <img src="https://img.shields.io/badge/CSS3-0A192F?style=for-the-badge&logo=css3&logoColor=64FFDA" /> </p> <br/>
+<p align="left"> <img src="https://img.shields.io/badge/Python-0A192F?style=for-the-badge&logo=python&logoColor=3776AB" /> <img src="https://img.shields.io/badge/Java-0A192F?style=for-the-badge&logo=openjdk&logoColor=ED8B00" /> <img src="https://img.shields.io/badge/SQL-0A192F?style=for-the-badge&logo=mysql&logoColor=4479A1" /> <img src="https://img.shields.io/badge/JavaScript-0A192F?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/HTML5-0A192F?style=for-the-badge&logo=html5&logoColor=E34F26" /> <img src="https://img.shields.io/badge/CSS3-0A192F?style=for-the-badge&logo=css3&logoColor=1572B6" /> </p> <br/>
 
 Frontend
 
-<p align="center"> <img src="https://img.shields.io/badge/HTML5-0A192F?style=for-the-badge&logo=html5&logoColor=64FFDA" /> <img src="https://img.shields.io/badge/CSS3-0A192F?style=for-the-badge&logo=css3&logoColor=64FFDA" /> <img src="https://img.shields.io/badge/Bootstrap-0A192F?style=for-the-badge&logo=bootstrap&logoColor=64FFDA" /> <img src="https://img.shields.io/badge/React-0A192F?style=for-the-badge&logo=react&logoColor=64FFDA" /> </p> <br/>
+<p align="left"> <img src="https://img.shields.io/badge/HTML5-0A192F?style=for-the-badge&logo=html5&logoColor=E34F26" /> <img src="https://img.shields.io/badge/CSS3-0A192F?style=for-the-badge&logo=css3&logoColor=1572B6" /> <img src="https://img.shields.io/badge/Bootstrap-0A192F?style=for-the-badge&logo=bootstrap&logoColor=7952B3" /> <img src="https://img.shields.io/badge/React-0A192F?style=for-the-badge&logo=react&logoColor=61DAFB" /> </p> <br/>
 
 Backend
 
-<p align="center"> <img src="https://img.shields.io/badge/Flask-0A192F?style=for-the-badge&logo=flask&logoColor=64FFDA" /> <img src="https://img.shields.io/badge/Node.js-0A192F?style=for-the-badge&logo=node.js&logoColor=64FFDA" /> <img src="https://img.shields.io/badge/REST_API-0A192F?style=for-the-badge&logo=fastapi&logoColor=64FFDA" /> </p> <br/>
+<p align="left"> <img src="https://img.shields.io/badge/Flask-0A192F?style=for-the-badge&logo=flask&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/Node.js-0A192F?style=for-the-badge&logo=node.js&logoColor=339933" /> <img src="https://img.shields.io/badge/REST_API-0A192F?style=for-the-badge&logo=fastapi&logoColor=009688" /> </p> <br/>
 
 Database
 
-<p align="center"> <img src="https://img.shields.io/badge/MySQL-0A192F?style=for-the-badge&logo=mysql&logoColor=64FFDA" /> <img src="https://img.shields.io/badge/MongoDB-0A192F?style=for-the-badge&logo=mongodb&logoColor=64FFDA" /> </p> <br/>
+<p align="left"> <img src="https://img.shields.io/badge/MySQL-0A192F?style=for-the-badge&logo=mysql&logoColor=4479A1" /> <img src="https://img.shields.io/badge/MongoDB-0A192F?style=for-the-badge&logo=mongodb&logoColor=47A248" /> </p> <br/>
 
 Machine Learning
 
-<p align="center"> <img src="https://img.shields.io/badge/Pandas-0A192F?style=for-the-badge&logo=pandas&logoColor=64FFDA" /> <img src="https://img.shields.io/badge/NumPy-0A192F?style=for-the-badge&logo=numpy&logoColor=64FFDA" /> <img src="https://img.shields.io/badge/Scikit--Learn-0A192F?style=for-the-badge&logo=scikitlearn&logoColor=64FFDA" /> <img src="https://img.shields.io/badge/TensorFlow-0A192F?style=for-the-badge&logo=tensorflow&logoColor=64FFDA" /> <img src="https://img.shields.io/badge/Keras-0A192F?style=for-the-badge&logo=keras&logoColor=64FFDA" /> <img src="https://img.shields.io/badge/Matplotlib-0A192F?style=for-the-badge&logo=plotly&logoColor=64FFDA" /> </p> <br/>
+<p align="left"> <img src="https://img.shields.io/badge/Pandas-0A192F?style=for-the-badge&logo=pandas&logoColor=150458" /> <img src="https://img.shields.io/badge/NumPy-0A192F?style=for-the-badge&logo=numpy&logoColor=013243" /> <img src="https://img.shields.io/badge/Scikit--Learn-0A192F?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" /> <img src="https://img.shields.io/badge/TensorFlow-0A192F?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" /> <img src="https://img.shields.io/badge/Keras-0A192F?style=for-the-badge&logo=keras&logoColor=D00000" /> <img src="https://img.shields.io/badge/Matplotlib-0A192F?style=for-the-badge&logo=plotly&logoColor=3F4F75" /> </p> <br/>
 
 Tools & Platforms
 
-<p align="center"> <img src="https://img.shields.io/badge/Git-0A192F?style=for-the-badge&logo=git&logoColor=64FFDA" /> <img src="https://img.shields.io/badge/GitHub-0A192F?style=for-the-badge&logo=github&logoColor=64FFDA" /> <img src="https://img.shields.io/badge/VS_Code-0A192F?style=for-the-badge&logo=visualstudiocode&logoColor=64FFDA" /> <img src="https://img.shields.io/badge/Figma-0A192F?style=for-the-badge&logo=figma&logoColor=64FFDA" /> <img src="https://img.shields.io/badge/Google_Colab-0A192F?style=for-the-badge&logo=googlecolab&logoColor=64FFDA" /> <img src="https://img.shields.io/badge/Excel-0A192F?style=for-the-badge&logo=microsoftexcel&logoColor=64FFDA" /> </p> </div> <br/>
+<p align="left"> <img src="https://img.shields.io/badge/Git-0A192F?style=for-the-badge&logo=git&logoColor=F05032" /> <img src="https://img.shields.io/badge/GitHub-0A192F?style=for-the-badge&logo=github&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/VS_Code-0A192F?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" /> <img src="https://img.shields.io/badge/Figma-0A192F?style=for-the-badge&logo=figma&logoColor=F24E1E" /> <img src="https://img.shields.io/badge/Google_Colab-0A192F?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" /> <img src="https://img.shields.io/badge/Excel-0A192F?style=for-the-badge&logo=microsoftexcel&logoColor=217346" /> </p> <br/>
 🚀  Featured Projects
 <table width="100%"> <tr> <td width="50%" valign="top">
 🌾 Farmer Produce Price Prediction
@@ -84,3 +83,9 @@ Python Flask Chart.js Bootstrap MySQL
 <i>"Always learning. Always building."</i>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5C4,50:12395C,100:0A192F&height=120&section=footer" /> </div>
+Content
+README (1).md
+
+257 lines
+
+MD
