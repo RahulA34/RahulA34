@@ -154,8 +154,6 @@ Technologies I work with regularly, organized by area:
 
 ## 🚀 Featured Projects
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B132B,50:38BDF8,100:0B132B&height=2&width=1000" width="100%"/>
-
 <table>
 <tr>
 <td width="50%" valign="top" bgcolor="#0F172A">
@@ -196,4 +194,54 @@ Tracks retail inventory and sales data through an interactive dashboard.
 </td>
 </tr>
 </table>
+
+
+## 💼 Open to Opportunities
+
+<img src="https://img.shields.io/badge/Available-1D4ED8?style=flat-square&labelColor=0B132B"/>
+
+> **Actively seeking** Software Engineering / Backend Development / Full-Stack Development / AI-ML internships — along with freelance web development projects.
+> 
+> Ready to contribute from day one, learn fast, and build things that matter. 🚀
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=RahulA34&show_icons=true&theme=react&bg_color=0B132B&title_color=38BDF8&icon_color=1D4ED8&text_color=94A3B8&border_color=1D4ED8&hide_border=false" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RahulA34&theme=react&background=0B132B&stroke=1D4ED8&ring=38BDF8&fire=3B82F6&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=94A3B8&border=1D4ED8" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulA34&layout=compact&theme=react&bg_color=0B132B&title_color=38BDF8&text_color=94A3B8&border_color=1D4ED8" width="49%"/>
+
+</div>
+
+## 📬 Connect With Me
+
+<div align="center">
+
+<a href="mailto:rahularmstrong.in@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/rahul-a-177660306">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/RahulA34">
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
+</a>
+
+</table>
+
+
+<br>
+
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B132B,50:38BDF8,100:0B172A&height=2&width=1000" width="100%"/>
+
+<div align="center">
+
+"I don't compete with others. I compete with who I was yesterday" 🖐️🖱️
+
+</div>
 
