@@ -248,4 +248,5 @@ Tracks retail inventory and sales data through an interactive dashboard.
 "I don't compete with others. I compete with who I was yesterday" 🖐️🖱️
 
 </div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B132B,50:1D4ED8,100:38BDF8&height=150&section=footer&text=Thanks%20for%20stopping%20by%20-%20Let's%20build%20something%20great%20together!&fontColor=F8FAFC&fontSize=20&animation=fadeIn" width="100%"/>
 
