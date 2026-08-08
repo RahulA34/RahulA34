@@ -152,6 +152,7 @@ Technologies I work with regularly, organized by area:
 
 <br/>
 
+
 ## 🚀 Featured Projects
 
 <table>
@@ -194,7 +195,7 @@ Tracks retail inventory and sales data through an interactive dashboard.
 </td>
 </tr>
 </table>
-
+<br/>
 
 ## 💼 Open to Opportunities
 
@@ -203,6 +204,7 @@ Tracks retail inventory and sales data through an interactive dashboard.
 > **Actively seeking** Software Engineering / Backend Development / Full-Stack Development / AI-ML internships — along with freelance web development projects.
 > 
 > Ready to contribute from day one, learn fast, and build things that matter. 🚀
+<br/>
 
 ## 📊 GitHub Analytics
 
@@ -214,6 +216,7 @@ Tracks retail inventory and sales data through an interactive dashboard.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulA34&layout=compact&theme=react&bg_color=0B132B&title_color=38BDF8&text_color=94A3B8&border_color=1D4ED8" width="49%"/>
 
 </div>
+<br/>
 
 ## 📬 Connect With Me
 
@@ -236,6 +239,7 @@ Tracks retail inventory and sales data through an interactive dashboard.
 
 <br>
 
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B132B,50:38BDF8,100:0B172A&height=2&width=1000" width="100%"/>
 
